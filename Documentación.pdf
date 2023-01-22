@@ -1,0 +1,89 @@
+ejemplo documentacion sitio web
+Páginas: 10 (2422 palabras) Publicado: 20 de marzo de 2013
+Documentación proyecto
+
+INTRODUCCION
+Nuestro trabajo se basará en la empresa xx es una empresa que desde el año xx se dedica a desarrollar servicios y productos para viajes independientes.
+
+
+OBJETIVO
+El objetivo primordial de nuestro proyecto (en acuerdo con la empresa es) dar a conocer los distintos productos o paquetes que se ofrecen para el turismo joven, el cual comprende un sector deedad entre los 18 y 35 años e incluye mujeres y hombres, el estrato social al cual se dirige es clase media – alta. En un principio la pagina esta pensada para residentes de Argentina, pero en un futuro será tambien desarrollada en ingles a medida que la empresa lo requiera.
+Dentro de lo que llamamos Turismo Joven, se proporcionara información sobre Trabajo en el exterior (Work and travel),teniendo en esta categoría 3 diferentes tipos de programas estáticos: Con oferta de trabajo, Trabajo Independiente, Repitente con oferta de trabajo.
+Además también se proporcionara información sobre Estudio en el extranjero (Study), dicha categoría se dividirá en Tipos de Idiomas (esto variara según la cantidad de programas de idiomas con los que se cuenten).
+Este proyecto va a estar basado en eltrabajo que se realiza en el Área Joven de xx, ya que tenemos acceso a la información y a los estudios necesarios para desarrollar el mismo.
+Además el sitio Web contará con servicios relaciones con el rubro de xx como por ejemplo Tipo de Cambio del día, el clima, Google Maps, horarios de otras ciudades.
+
+DESARROLLO
+Se comenzó con el diseño en papel y lápiz creando las interfaces.
+Se inició elvolcado de maquetación de papel a Dreamweaver cs3.
+Se diseñó la base de datos en papel y lápiz.
+Se creó la base de datos en Access 2010.
+Se llevó a cabo la programación del sitio en ASP.
+Algunas ilustraciones se llevaron a cabo utilizando Fireworks.
+Se contrató el servicio de Hosting de Dattatec plan inicio.
+
+ESTRUCTURA
+Carpeta raíz “turismo3” donde se encuentra todo el contenido delsitio.
+"c:/inetpub/wwwroot/turismo3"
+
+Archivo index.html "c:/inetpub/wwwroot/index.asp"el archivo index.asp es el punto inicial que encontraremos en el sitio.
+
+
+Subcarpetas:
+
+Imágenes "c:inetpub/wwwroot/turismo3/imagenes"
+
+ASP "c:/inetpub/wwwroot/turismo3/ASP"
+
+BD "c:/inetpub/wwwroot/turismo3/ASP/database31” Carpeta donde se guardara la BD Access con las respectivas tablas, filas,columnas, datos.
+
+CSS "c:/inetpub/wwwroot/turismo3/CSS” En esta carpeta se guardara todo lo referente a los estilos de la página web, como por ejemplo tipografías, colores, tamaños, estilos, etc
+
+Templates "c:/inetpub/wwwroot/turismo3/Templates". Se utilizaron 3 tipos de templates:
+Cuerpo 2 el cual fue utilizado en las páginas de Identificación, Quienes somos, Modificar.
+
+
+SERVICIOS QUECONTEMPLA
+Los servicios de la página, los mismos son externos, por lo cual si seleccionamos alguno de ellos nos iremos fuera de esta pagina web, los cuales son tres:
+Conversor de moneda,
+Clima,
+Hi Hostelling (esta es una publicidad de una tarjeta de Hostels, la cual se compra para obtener descuentos en hostels alrededor del mundo).
+BASE DE DATOS
+La base de dato tendrá la siguiente estructura:Nombre: database31.accdb
+
+Tablas:
+• Encabezado.
+• Fotos.
+• Menuhorizontal.
+• Menulogin.
+• Pie
+• Publicidades.
+• Quienessomos.
+• Study.
+• Usuarios.
+• Work.
+
+
+
+
+
+NOTAS DE DISEÑO
+
+Se necesita que se mantenga el #contenedor2 ya que si el mismo no funciona se descompagina toda la estructura, lo mismo para las dimensiones de ancho que se manejan al 75%.
+Si se realizará uncambio en los colores de la pagina se sugiere cambiarlos por colores pasteles pero a su vez se recomienda mantener un estilo joven, ya que la pagina esta dirigida a ese segmento.
+
+NOTAS DE MAQUETACION
+No aplica.
+
+DATOS DEL HOSTING
+Entidad Registrante
+xxxx
+Entidad Responsable
+xxxx
+IP
+http://xxxx.com
+http://xxxx.com
+DNS
+Responsable Tecnico: xx
+Nombre: xx
+Casillas de correo con tu propio...
